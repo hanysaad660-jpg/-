@@ -1,0 +1,8 @@
+{
+  "name": " Hany Saad Ai3",
+  "description": "An advanced, multifunctional AI assistant capable of handling files, generating multimedia content, providing expert knowledge across various domains, and performing personal assistant tasks with a professional and modern user interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
